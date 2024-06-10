@@ -11,5 +11,7 @@ Due to Gradle's nature, you may not be able to use the BF input in your terminal
 
 ## Arguments
 `-d` : Debug mode(with a memory and pointer display)
+
 `-v` : Displays version text
+
 `-h` : Displays a help screen
