@@ -98,7 +98,7 @@ public class Interpreter{
     }
 
 	public void debugFuckMachine(int row) {
-		System.out.print("Memory: ");
+		System.out.println("\n Memory: ");
 
 		for (int c = 0, rowCount = 0; c < mem.length; c++, rowCount++) {
 			if(rowCount == row){
